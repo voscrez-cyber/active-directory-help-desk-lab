@@ -112,6 +112,8 @@ I also created a custom Event Viewer view for important account-security events,
 | Missing RSAT tools | Confirmed the capability state, installed the Active Directory RSAT feature, restarted, and verified the tools. |
 | DHCP/APIPA failure | Traced a `169.254.x.x` address to failed DHCP communication and verified the service, binding, scope, authorization, firewall, and VirtualBox network path before restoring DHCP. |
 
+[View detailed help desk ticket case studies](Documentation/Tickets)
+
 ## Troubleshooting Commands Used
 
 ```powershell
